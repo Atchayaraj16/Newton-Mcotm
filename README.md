@@ -62,12 +62,6 @@ Migration Rate	          50.2%	               47.9%	              **↓ 4.55%**
 - Lowers energy consumption by ~7%
 - Stabilizes migration frequency through predictive control
 
-Reference Paper:
-
-Newton-Enhanced Extension:
-**Atchaya R**, Sakthikanika V, Rakavi Dharshini K, Kannan K, Ezhilarasie R
-"Newton-Enhanced Mobility-Aware Offloading and Task Migration with Predictive Resource Allocation"
- IEEE Conference Paper, 2025
 
 
 
