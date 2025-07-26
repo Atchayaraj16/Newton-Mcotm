@@ -62,13 +62,13 @@ Migration Rate	          50.2%	               47.9%	              **↓ 4.55%**
 - Lowers energy consumption by ~7%
 - Stabilizes migration frequency through predictive control
 
-Reference Paper:
-    Predictive Resource Allocation for Mobility-Aware Task Offloading and Migration in Edge Environments"
-    Atchaya R, Sakthikanika V, Rakavi Dharshini K, Kannan K, Ezhilarasie R
-    School of Computing, SASTRA Deemed University, Thanjavur, India
-     Submitted 2025 | Presented at https://icscds.com/|D: ICSCDS466, Aug 8, 2025.
-       
-
-
+Reference Paper: 
+               Predictive Resource Allocation for Mobility-Aware Task Offloading and Migration in Edge Environments"
+               Atchaya R, Sakthikanika V, Rakavi Dharshini K, Kannan K, Ezhilarasie R
+               School of Computing, SASTRA Deemed University, Thanjavur, India
+               Submitted 2025 | Presented at https://icscds.com/|D: ICSCDS466, Aug 8, 2025.
+                 
+          
+          
 
 
